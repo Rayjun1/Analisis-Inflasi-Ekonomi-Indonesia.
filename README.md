@@ -43,6 +43,6 @@ Inflasi memiliki peran penting dalam dinamika ekonomi Indonesia. Meskipun hubung
 ## 🛠️ Tools & Technologies
 * **Language:** R
 * **Method:** Statistical Analysis (Regression & Correlation)
-* **Data Source:** World Bank / BPS (2011-2023)
+* **Data Source:** BI / BPS (2011-2023)
 
 ---
